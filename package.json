@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/shearichard/node-ts-workshop#readme",
   "devDependencies": {
+    "@types/node": "^7.0.16",
+    "nodemon": "^1.11.0",
+    "rimraf": "^2.6.1",
     "ts-node": "^3.0.3",
     "tslint": "^5.2.0",
     "typescript": "^2.3.2"
