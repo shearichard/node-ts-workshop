@@ -1,0 +1,24 @@
+{
+  "name": "node-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shearichard/node-ts-workshop.git"
+  },
+  "author": "shearichard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shearichard/node-ts-workshop/issues"
+  },
+  "homepage": "https://github.com/shearichard/node-ts-workshop#readme",
+  "devDependencies": {
+    "ts-node": "^3.0.3",
+    "tslint": "^5.2.0",
+    "typescript": "^2.3.2"
+  }
+}
